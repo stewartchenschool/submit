@@ -13,8 +13,8 @@
 <p> 3 eggs, 1000 calorie 80g protein Chipotle bowl. </p>
 <h2> Calories this week </h2>
 <p> 6180 </p>
-<img src="cow">
-<img src="thumb">
+<img src="cow.jpg">
+<img src="thumb.jpg">
 <a href="url"> https://www.wikipedia.org/ </a>
 
 
